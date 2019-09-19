@@ -1,0 +1,44 @@
+baseURL = "https://ratnakar.ml/"
+languageCode = "en-us"
+title = "Ratnakar Muramalla"
+theme = "hugo-resume"
+
+
+[params]
+    firstName = "Ratnakar"
+    lastName = "Muramalla"
+    address = "Bangalore, IN"
+    phone = "9014345254"
+    contactNote = "FullStack Web Developer" #used in QR code only
+    profileImage = "img/ratnakar.png"
+    email = "fullstackwebdeveloper@gmail.com"
+    description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
+    favicon = "images/favicon.ico"
+
+    # what sections to display.  Setting to false disables navigation and section.
+    showSkills = true
+    showProjects = true
+    showOpenSource = true
+    showPublications = true
+    showExperience = true
+    showEducation = true
+    showQr = true
+
+    # do you want to show git hash on page footer and link to repo? Add commit URl for repo here.
+    gitCommitPrefix = "https://github.com/YOURNAME/REPONAME/commit/"
+
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/ratnakar-muramalla-5a071284/"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/ratnakarm"
+
+
+[params.google.analytics]
+    trackerID = "UA-148338192-1"
+
+[outputs] #only required for search
+    home = ["HTML", "JSON"]
