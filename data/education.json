@@ -1,15 +1,14 @@
 [
     {
-        "school":"Rochester Institute of Technology",
-        "degree":"Bachelor of Science",
-        "major":"Management Information Systems",
-        "notes":"Beta Gamma Signma, High Honors",
-        "range":"2006 - 2008"
+        "school":"Wellfare Engineering College",
+        "degree":"Bachelor of Technology",
+        "major":"Computer Science Engineerng",
+        "range":"2009 - 20013"
     },
     {
-        "school":"Clinton Community College",
-        "degree":"Associate of Applied Science",
-        "major":"Computer Information Systems",
-        "range":"2004 - 2006"
+        "school":"Narayana Jr College",
+        "degree":"Intermediate",
+        "major":"MPC",
+        "range":"2007 - 2009"
     }
 ]
