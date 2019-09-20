@@ -1,20 +1,14 @@
 [
     {
-        "role":"Boss man",
-        "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.",
-        "range":"February 2016 - Present"
+        "role":"Web Developer",
+        "company":"Magna Health Solutions",
+        "summary":"",
+        "range":"October 2015 - Present"
     },
     {
-        "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
-    },
-    {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
+        "role":"Web Developer",
+        "company":"Intact Info",
+        "summary":"",
+        "range":"August 2013 - October 2015"
     }
 ]
