@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-<p>Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.</p>
+<p>I am a Fullstack Web Developer who is passionate about learning new technologies, building great user experiences. I have more than 6 years of experience in building web and mobile applications with JavaScript, HTML5, CSS3, Ionic, jQuery.</p>
