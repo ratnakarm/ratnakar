@@ -12,7 +12,7 @@ theme = "hugo-resume"
     contactNote = "FullStack Web Developer" #used in QR code only
     profileImage = "img/ratnakar.png"
     email = "fullstackwebdeveloper@gmail.com"
-    description = "I am a Fullstack Web Developer who is passionate about learning new technologies, building great user experiences. I have 5 years of experience in building web and mobile applications with JavaScript, HTML5, CSS3, Ionic, jQuery."
+    description = "I am a Fullstack Web Developer who is passionate about learning new technologies, building great user experiences. I have more than 6 years of experience in building web and mobile applications with JavaScript, HTML5, CSS3, Ionic, jQuery."
 favicon = "images/favicon.ico"
 
     # what sections to display.  Setting to false disables navigation and section.
