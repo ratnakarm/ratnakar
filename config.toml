@@ -5,7 +5,7 @@ theme = "hugo-resume"
 
 
 [params]
-    firstName = "Ratnakar"
+    firstName = "Ratnakara"
     lastName = "Muramalla"
     address = "Bangalore, IN"
     phone = "9014345254"
