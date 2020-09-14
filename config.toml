@@ -49,3 +49,11 @@ favicon = "images/favicon.ico"
 
 [outputs] #only required for search
     home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
+
+
+
+
+
