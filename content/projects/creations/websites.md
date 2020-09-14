@@ -1,5 +1,5 @@
 {
-  "title": "BOSH release for Bamboo & Remote Agents",
+  "title": "Websites",
   "date": "2018-02-11T12:41:05-05:00",
   "image": "/img/circleci-workflow.png",
   "link": "https://github.com/eddiewebb/bosh-bamboo",
