@@ -17,7 +17,7 @@ favicon = "images/favicon.ico"
 
     # what sections to display.  Setting to false disables navigation and section.
     showSkills = true
-    showProjects = true
+    showProjects = false
     showOpenSource = false
     showPublications = false
     showExperience = true
