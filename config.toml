@@ -35,7 +35,14 @@ favicon = "images/favicon.ico"
 [[params.handles]]
     name = "GitHub"
     link = "https://github.com/ratnakarm"
+    
+[[params.handles]]
+    name = "Twitter"
+    link = "https://www.linkedin.com/in/ratnakar-muramalla-5a071284/"
 
+[[params.handles]]
+    name = "Facebook"
+    link = "https://www.facebook.com/ratnakar.muramalla/"
 
 [params.google.analytics]
     trackerID = "UA-148338192-1"
