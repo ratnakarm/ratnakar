@@ -27,6 +27,9 @@ favicon = "images/favicon.ico"
     # do you want to show git hash on page footer and link to repo? Add commit URl for repo here.
     gitCommitPrefix = "https://github.com/YOURNAME/REPONAME/commit/"
 
+[[params.handles]]
+    name = "Facebook"
+    link = "https://www.facebook.com/ratnakar.muramalla"
 
 [[params.handles]]
     name = "LinkedIn"
@@ -38,11 +41,8 @@ favicon = "images/favicon.ico"
     
 [[params.handles]]
     name = "Wordpress"
-    link = "https://www.linkedin.com/in/ratnakar-muramalla-5a071284/"
+    link = "https://profiles.wordpress.org/ratnakarm"
 
-[[params.handles]]
-    name = "Facebook"
-    link = "https://www.facebook.com/ratnakar.muramalla/"
 
 [params.google.analytics]
     trackerID = "UA-148338192-1"
